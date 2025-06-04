@@ -1,4 +1,4 @@
-# WSD
+# Generative Weak Supervised Distance
 
 To use these knwf files, please install KNIME version 5.4.2.
 Once installed, to be able to run python code:
