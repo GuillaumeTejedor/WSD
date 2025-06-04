@@ -13,8 +13,9 @@ When opening KNIME, choose as working directory the folder "WSD" that you have d
 
 There are 3 knwf files:
 
-- data_preparation.knwf : Used to receive raw data and to prepare it
-- stratification_concurrents_comparison.knwf : Used to cluster patients
-- clusters_prediction.knwf : Used to predict clusters of patients from clinical and biological data
+1) data_preparation.knwf : Used to receive raw data and to prepare it
+2) stratification_concurrents_comparison.knwf : Used to cluster patients
+3) clusters_prediction.knwf : Used to predict clusters of patients from clinical and biological data
 
 You have to import them into knime in order to use them.
+You have to execute them in the order.
