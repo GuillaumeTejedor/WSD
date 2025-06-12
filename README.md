@@ -4,7 +4,7 @@ To use these knwf files, please install KNIME version 5.4.2.
 Once installed, to be able to run python code:
 - Install "KNIME Python Integration" extension on KNIME software.
 - Install Python version: 3.11.1
-- Install necessary librairies: snorkel, scikit-learn, umap-learn, rdp, scikit-learn-extra, lifelines, numpy, pandas, scipy, scikit-learn-extra, itertools
+- Install necessary librairies: snorkel, scikit-learn, umap-learn, rdp, scikit-learn-extra, lifelines, numpy, pandas, scipy, dask
 
 We recommend you to link KNIME to Anaconda in order to create conda environments and
 install necessary librairies directly from Anaconda software.
