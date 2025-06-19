@@ -11,7 +11,7 @@ install necessary librairies directly from Anaconda software.
 
 When opening KNIME, choose as working directory the folder "WSD" that you have downloaded from git.
 
-There are 3 knwf files:
+There are 3 knwf files to import into KNIME:
 
 1) data_preparation.knwf : Used to receive raw data and to prepare it
 2) stratification_concurrents_comparison.knwf : Used to cluster patients
